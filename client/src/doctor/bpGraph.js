@@ -51,7 +51,7 @@ const BPGraph = (props) => {
           data={data}
           margin={{
             top: 16,
-            right: 17,
+            right: 16,
             bottom: 0,
             left: 24,
           }}
